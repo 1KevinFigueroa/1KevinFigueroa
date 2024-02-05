@@ -1,7 +1,7 @@
 ## Greetings and welcome! 👋
 
 # 🔥 About Me: 🔥
-#### "I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner.
+#### "I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner."
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1KevinFigueroa%2Fhit-counter)                 
 
 # TECH STACK:
@@ -10,7 +10,7 @@
 
 # Github Stats:
 ![Kevin Figueroa's GitHub stats](https://github-readme-stats.vercel.app/api?username=1KevinFigueroa&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&show_icons=true&theme=aura)](https://github.com/1KevinFigueroa/github-readme-stats)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KevinFigueroa&layout=compact&show_icons=true&theme=aura)<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1KevinFigueroa&show_icons=true&theme=radical)
 
 <!--
