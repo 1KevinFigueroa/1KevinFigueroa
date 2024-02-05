@@ -1,8 +1,7 @@
 ## Greetings and welcome! 👋
 
 # About Me:
-#### Greetings and welcome!
-#### I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusastic passionate Cybersecurity practitioners!
+#### "I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner.
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1KevinFigueroa%2Fhit-counter)                 
 
 # TECH STACK:
