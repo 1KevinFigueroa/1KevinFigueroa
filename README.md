@@ -7,7 +7,6 @@
 # TECH STACK:
 ![My Skills](https://skillicons.dev/icons?i=regex,bash,vim,vscode,visualstudio,md,html,css,javascript,python,c,java,figma,git,github,docker,postgres,mongodb,aws,gcp,ai,aiscript&theme=dark)
 
-
 # Github Stats:
 ![Kevin Figueroa's GitHub stats](https://github-readme-stats.vercel.app/api?username=1KevinFigueroa&show_icons=true&theme=merko)<br>
 
