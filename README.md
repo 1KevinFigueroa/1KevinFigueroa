@@ -2,7 +2,6 @@
 
 # 🔥 About Me: 🔥
 #### "I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner."
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1KevinFigueroa%2Fhit-counter)
 
 # TECH STACK:
 ![My Skills](https://skillicons.dev/icons?i=regex,bash,vim,vscode,visualstudio,md,html,css,javascript,python,c,java,figma,git,github,docker,postgres,mongodb,aws,gcp,ai,aiscript&theme=dark)
