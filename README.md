@@ -7,7 +7,11 @@
 ![My Skills](https://skillicons.dev/icons?i=regex,bash,vim,vscode,visualstudio,md,html,css,javascript,python,c,java,figma,git,github,docker,postgres,mongodb,aws,gcp,ai,aiscript&theme=dark)
 
 # Github Stats:
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=1KevinFigueroa)](https://github.com/1KevinFigueroa/github-readme-stats)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1KevinFigueroa&theme=dracula)
+[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1KevinFigueroa&theme=dracula)](https://github.com/1KevinFigueroa/github-readme-stats)
+![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile)
+
 
 <!--
 **1KevinFigueroa/1KevinFigueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
