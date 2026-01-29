@@ -7,10 +7,23 @@
 ![My Skills](https://skillicons.dev/icons?i=regex,bash,vim,vscode,visualstudio,md,html,css,javascript,python,c,java,figma,git,github,docker,postgres,mongodb,aws,gcp,ai,aiscript&theme=dark)
 
 # Github Stats:
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula" 
+  alt="Top Languages" 
+  width="300"
+/><img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile" 
+  alt="Top Commit Languages" 
+  width="300"
+/><img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1KevinFigueroa&theme=dracula" 
+  alt="GitHub Stats" 
+  width="300"
+/>
+<!--![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula)-->
+<!--![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile)-->
+<!--![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1KevinFigueroa&theme=dracula)-->
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1KevinFigueroa&theme=dracula)
-![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile)
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1KevinFigueroa&theme=dracula)](https://github.com/1KevinFigueroa/github-readme-stats)
 
 
