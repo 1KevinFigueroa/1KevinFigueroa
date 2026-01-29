@@ -10,15 +10,15 @@
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula" 
   alt="Top Languages" 
-  width="300"
+  width="250"
 /><img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile" 
   alt="Top Commit Languages" 
-  width="300"
+  width="250"
 /><img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1KevinFigueroa&theme=dracula" 
   alt="GitHub Stats" 
-  width="300"
+  width="250"
 />
 <!--![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1KevinFigueroa&theme=dracula)-->
 <!--![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=dracula&exclude=HTML,Dockerfile)-->
