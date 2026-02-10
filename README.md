@@ -1,7 +1,7 @@
 ## Greetings and welcome! 👋
 
 # 🔥 About Me: 🔥
-#### "I'm Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner."
+#### "My name is Kevin Figueroa, a Martial Arts, Gamer, Hacker, Bug Bounty Hunter, Artist, Day Trader, but mostly an enthusiastic and passionate Cybersecurity practitioner. Red Team operator with 25+ years of experience breaching enterprise environments through sophisticated network, web application, and API exploitation campaigns. Kevin Figueroa specializes in full-scope penetration testing, living-off-the-land techniques, and custom tooling development. Passionately tracking adversary TTPs while weaponizing AI and vector databases for automated attack paths and payload generation to expose and close critical gaps in organizational defenses."
 
 # TECH STACK:
 ![My Skills](https://skillicons.dev/icons?i=regex,bash,vim,vscode,visualstudio,md,html,css,javascript,python,c,java,figma,git,github,docker,postgres,mongodb,aws,gcp,ai,aiscript&theme=dark)
